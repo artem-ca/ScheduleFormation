@@ -1,0 +1,60 @@
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\К проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

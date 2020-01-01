@@ -1,0 +1,136 @@
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\timetable.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\timetable.csproj.ResolveComReference.cache
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\timetable.csproj.GenerateResource.Cache
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.main.resources
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csproj.ResolveComReference.cache
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csproj.ResolveComReference.cache
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csprojResolveAssemblyReference.cache
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.main.resources
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csproj.GenerateResource.Cache
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.main.resources
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csproj.GenerateResource.Cache
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Руслан\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\c#\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\c#\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+D:\c#\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\c#\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csproj.ResolveComReference.cache
+D:\c#\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\c#\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Программирование\c#(курсовая)\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Программирование\c#(курсовая)\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csproj.ResolveComReference.cache
+D:\Программирование\c#(курсовая)\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Программирование\c#(курсовая)\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe.config
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.pdb
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.exe
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.pdb
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\С#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.AboutBox.resources
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csproj.ResolveComReference.cache
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.AboutBox.resources
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.main.resources
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csproj.GenerateResource.cache
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.exe
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.pdb
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe.config
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csproj.ResolveComReference.cache
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.exe
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.pdb
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.pdb
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csprojResolveAssemblyReference.cache
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.AboutBox.resources
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.main.resources
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csproj.GenerateResource.Cache
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csprojAssemblyReference.cache
+\\192.168.13.111\студент 325л\Компьютер 3\ПР-31\Темыч\C#\Проект к проф модулю\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csprojAssemblyReference.cache
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csprojAssemblyReference.cache
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csproj.ResolveComReference.cache
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.AboutBox.resources
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.main.resources
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\timetable.csproj.GenerateResource.cache
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.exe
+C:\Users\328-1\Desktop\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\timetable.csprojAssemblyReference.cache
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\timetable.csproj.ResolveComReference.cache
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.AboutBox.resources
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.main.resources
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\timetable.csproj.GenerateResource.cache
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.exe
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.pdb
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe.config
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\timetable.csproj.ResolveComReference.cache
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.exe
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.pdb
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.pdb
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.AboutBox.resources
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.main.resources
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\timetable.csproj.GenerateResource.Cache
+E:\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\timetable.csprojResolveAssemblyReference.cache
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\obj\Debug\timetable.csprojAssemblyReference.cache
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\obj\Debug\timetable.csproj.ResolveComReference.cache
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.AboutBox.resources
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.main.resources
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\obj\Debug\timetable.csproj.GenerateResource.cache
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.exe
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\TimetableFormator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication.pdb

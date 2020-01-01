@@ -1,0 +1,15 @@
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication.exe.config
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication.exe
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication.pdb
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\timetable.csprojAssemblyReference.cache
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\timetable.csproj.ResolveComReference.cache
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication.AboutBox.resources
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication.main.resources
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\timetable.csproj.GenerateResource.cache
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication.exe
+C:\Users\Tyema\Desktop\Учеба\Программирование\Темыч (Михайлов В.А.)\C#\Проект к проф модулю\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication.pdb
